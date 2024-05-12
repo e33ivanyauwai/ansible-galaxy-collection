@@ -1,0 +1,40 @@
+{
+ "collection_info": {
+  "namespace": "vmware",
+  "name": "alb",
+  "version": "30.1.1",
+  "authors": [
+   "Gaurav Rastogi <grastogi@vmware.com>",
+   "Sandeep Bandi <sabandi@vmware.com>",
+   "Amol Shinde <samol@vmware.com>"
+  ],
+  "readme": "README.md",
+  "tags": [
+   "avi",
+   "controller",
+   "avicontroller",
+   "avisdk",
+   "avinetworks",
+   "network",
+   "load",
+   "balancer",
+   "sdk"
+  ],
+  "description": "VMware Advanced Load Balancer (formerly Avi) Ansible Collection",
+  "license": [],
+  "license_file": "LICENSE",
+  "dependencies": {},
+  "repository": "https://github.com/vmware/ansible-collection-alb",
+  "documentation": null,
+  "homepage": null,
+  "issues": "https://github.com/vmware/ansible-collection-alb/issues"
+ },
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "ftype": "file",
+  "chksum_type": "sha256",
+  "chksum_sha256": "627dadfa57c64bcd120458a5ea64e093b1885816848238914ebd5386072c2756",
+  "format": 1
+ },
+ "format": 1
+}
